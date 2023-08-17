@@ -569,6 +569,7 @@ section.light{
 .img-random{
   width: 50%;
   margin: 100px;
+  
 }
 .img-rand{
   width: 100%;
@@ -579,15 +580,12 @@ section.light{
 
 .text-random{
   width : 50%;
-  margin-left: 100px;
 }
 
 .transition img{
   box-shadow: inset 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
   border: solid 1px;
   border-color: #33333337;
-  width: 80%;
-  height: 50%;
 }
 .transition .certificate-image1{
   rotate: -20deg;
@@ -637,13 +635,14 @@ section.story{
 }
 .story-img{
   width: 50%;
+  margin-right: 100px;
 }
 .story-text{
   width: 50%;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 .story-inner-img{
-  width: 100%;
+
   border-width: 5px;
   border-color: #f1eeee;
   border-style: solid;
